@@ -1,0 +1,1 @@
+body{background:#ebffde}.banner{width:100%;height:500px;object-fit:cover;border-radius:7px}img{box-shadow:6px 6px 2px 1px rgba(0,0,255,.2)}video{border-radius:10px}.grid-parent{display:grid;grid-template-columns:2fr 2fr;height:300px}.grid-childizq{flex:1;padding:0;height:300px}.grid-childcha{flex:2;padding:10px;height:280px}
